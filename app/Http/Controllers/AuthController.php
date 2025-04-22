@@ -31,4 +31,9 @@ class AuthController extends Controller
         }
 
     }
+
+    public function autenticar()
+    {
+
+    }
 }
